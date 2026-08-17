@@ -9,7 +9,6 @@
   <!-- 访问 https://github-readme-tech-stack.vercel.app 自定义你的技术栈卡片 -->
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&theme=github_dark&line1=python,Python,306998;go,Go,00ADD8;typescript,TypeScript,3178C6;&line2=react,React,61DAFB;vue.js,Vue.js,4FC08D;node.js,Node.js,339933;&line3=docker,Docker,2496ED;kubernetes,Kubernetes,326CE5;aws,AWS,232F3E;">
 
-![welcome](https://github.com/user-attachments/assets/37b8016f-55e9-4e87-96d1-a07d9f58f716)
 
 ![profile](https://github.com/user-attachments/assets/44faa1aa-56a7-4852-97e8-257f1106410a)
 
